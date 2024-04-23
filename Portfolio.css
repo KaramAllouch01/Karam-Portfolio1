@@ -502,51 +502,11 @@ header .navbar ul li a:hover {
 /*----------------------------------------------------------------------------------------------*/
 /*----------------------------------------------------------------------------------------------*/
 .k {
-  color: red;
+  color: gray;
 }
 
-.a1 {
-  color: #f9ca24;
-}
-
-.r {
-  color: aqua;
-}
-
-.a2 {
-  color: blue;
-}
-
-.m {
-  color: chartreuse;
-}
-
-.a3 {
-  color: coral;
-}
-
-.l1 {
-  color: darkgray;
-}
-
-.l2 {
-  color: darkmagenta;
-}
-
-.o {
-  color: lightblue;
-}
-
-.u {
-  color: maroon;
-}
-
-.c {
-  color: orangered;
-}
-
-.h {
-  color: yellow;
+.a{
+  color: var(--yellow);
 }
 
 /*----------------------------------------------------------------------------------------------*/
